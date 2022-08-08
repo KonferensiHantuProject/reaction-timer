@@ -1,4 +1,4 @@
-# reaction-timer
+# Reaction Timer
 
 ## Project setup
 ```
