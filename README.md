@@ -1,6 +1,6 @@
 # Reaction Timer
 
-## Project Setup
+## Setup Projek
 ```
 npm install
 ```
